@@ -5,7 +5,7 @@ function testFunc() {
 }
 
 function superbowlWin(arr){
-  for(let i=0; i<arr.length; i++){
+  for(year in arr){
     
   }
 }
